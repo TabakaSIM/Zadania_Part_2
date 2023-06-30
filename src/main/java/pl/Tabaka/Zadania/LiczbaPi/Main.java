@@ -31,6 +31,7 @@ public class Main {
         }
         return counter*4/field;
     }
+
     public static double integralPi(){
         Random rng = new Random();
         double counter=0;
