@@ -32,7 +32,7 @@ public class Main {
         return counter*4/field;
     }
 
-    public static double integralPi(){
+    public static double integralPi(){  //metoda całkowanai (Z definicji Riemanna)
         Random rng = new Random();
         double counter=0;
         int divisionInterval =10000;
